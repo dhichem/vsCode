@@ -1,7 +1,3 @@
 popopo
 lllllllmm
-<<<<<<< HEAD
 ver1
-=======
-ver2
->>>>>>> 4426a848ba7560a8ceb4a606799fb6c7e0158230
